@@ -12,7 +12,9 @@ cs2新版本cfg json版本的
 [【CS2】最逆天的CFG演示⚡️全新多功能六边形CFG讲解⚡️一键松手急停 滚轮连跳 内格夫提速无声走 仅跑打时准](https://www.bilibili.com/video/BV1WN411G7mB)
 
 [CS2 无冲松键急停 V6.0更新](https://www.bilibili.com/read/cv27508908)
+
 ---
+
 [【CS2】 CFG文件配置教程](https://www.bilibili.com/video/BV14u4y177QD)
 
 [关于CS2的cfg，答案都在这了](https://www.bilibili.com/read/cv26799451/)
